@@ -12,7 +12,7 @@
 
         public string PictureFileName { get; set; }
 
-        public string PictureUri { get; set; }
+        public string PictureUrl { get; set; }
 
         public int AvailableStock { get; set; }
 
